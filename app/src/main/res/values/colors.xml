@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores del logo e ícono (prototipo). Mantenerlos iguales a ui/theme/Theme.kt. -->
+    <color name="marca_azul">#FF1E3A8A</color>
+    <color name="marca_blanco">#FFFFFFFF</color>
+    <color name="marca_azul_claro">#FFBFDBFE</color>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- PROVISIONAL: logo genérico de TuPerifericos (teclado y mouse). Para usar uno oficial: copiar el
+     PNG a res/drawable/ con el nombre logo_app.png y borrar este .xml (el código no cambia). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <path android:fillColor="@color/marca_azul" android:pathData="M4,60 A56,56 0 1,1 116,60 A56,56 0 1,1 4,60 Z" />
+    <!-- Teclado -->
+    <path android:fillColor="@color/marca_blanco" android:pathData="M24,50 L96,50 L96,80 L24,80 Z" />
+    <path android:fillColor="@color/marca_azul_claro" android:pathData="M30,56 L38,56 L38,62 L30,62 Z M42,56 L50,56 L50,62 L42,62 Z M54,56 L62,56 L62,62 L54,62 Z M66,56 L74,56 L74,62 L66,62 Z M78,56 L90,56 L90,62 L78,62 Z M30,66 L38,66 L38,72 L30,72 Z M42,66 L78,66 L78,72 L42,72 Z M82,66 L90,66 L90,72 L82,72 Z" />
+    <!-- Mouse -->
+    <path android:fillColor="@color/marca_blanco" android:pathData="M52,22 A8,8 0 0,1 68,22 L68,36 A8,8 0 0,1 52,36 Z" />
+    <path android:fillColor="@color/marca_azul" android:pathData="M59,24 L61,24 L61,30 L59,30 Z" />
+</vector>
